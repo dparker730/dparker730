@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dan — a Computer Science student and U.S. Marine transitioning into software development.  
+I'm Dan — a computer science grad and Marine vet transitioning into software development.  
 I enjoy building practical, real-world applications with modern web and cloud technologies.
 
 ### 🔭 Current Project
