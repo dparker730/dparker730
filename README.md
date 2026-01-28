@@ -5,7 +5,7 @@ I enjoy building practical, real-world applications with modern web and cloud te
 
 ### 🔭 Current Project
 **Detcoins** – A two-way marketplace for Marines to buy and sell unit merchandise.  
-Built to solve a real problem I experienced firsthand.
+Built to streamine a process from vendor to customer.
 
 ### 🌱 Currently Learning
 - React & modern frontend patterns  
