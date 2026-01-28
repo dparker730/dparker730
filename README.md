@@ -5,7 +5,7 @@ I enjoy building practical, real-world applications with modern web and cloud te
 
 ### 🔭 Current Project
 **Detcoins** – A two-way marketplace for Marines to buy and sell unit merchandise.  
-Building on Bubble.io to streamine the process from vendor to customer.
+  - Building on Bubble.io to streamine the process from vendor to customer.
 
 ### 🌱 Currently Learning
 - React & modern frontend patterns  
