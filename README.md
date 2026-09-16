@@ -9,8 +9,8 @@ I enjoy building practical, real-world applications with modern web and cloud te
 
 ### 🌱 Currently Learning
 - React & modern frontend patterns  
-- AWS cloud-native architecture  
 - Full-stack application deployment
+- Cisco Certified Network Associate (CCNA) certification
 
 ### 💡 Interests
 - Software engineering & cloud infrastructure  
