@@ -4,11 +4,10 @@ I'm Dan — a computer science graduate and Marine Corps veteran transitioning i
 I enjoy building practical, real-world applications with modern web and cloud technologies.
 
 ### 🔭 Current Projects
-- **Detcoins** – A two-way marketplace for Marines to buy and sell unit merchandise.  
-  - Building on Next.js to streamine the process from vendor to customer.
-
- - **Sans** – Blogging — without the writer's block
-  - An AI-integrated blogging platform.
+- **Detcoins** – A two-sided marketplace for Marines to buy and sell unit merchandise.  
+   - Building on Next.js to streamine the process from vendor to customer.
+- **Sans** – An AI-integrated blogging platform.
+   - Blogging — without the writer's block
 
 ### 🌱 Currently Learning
 - React & modern frontend patterns  
