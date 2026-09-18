@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm Dan — a computer science graduate and Marine Corps veteran transitioning into software development.  
-I enjoy building practical, real-world applications with modern web and cloud technologies.
+I'm Dan — a CS grad and USMC vet transitioning into software development.  
+I enjoy building practical, real-world apps to simplify my life.
 
 ### 🔭 Current Projects
 - **Detcoins** – A two-sided marketplace for Marines to buy and sell unit merchandise.  
