@@ -6,8 +6,11 @@ I enjoy building practical, real-world apps to simplify my life.
 ### 🔭 Current Projects
 - **Detcoins** – A two-sided marketplace for Marines to buy and sell unit merchandise.  
    - Building on Next.js to streamine the process from vendor to customer.
+- **Cortana** – A local Halo MCC achievement tracker that groups, sorts, and links to guides.
+   - Drop into your next session with a mission.
 - **Sans** – An AI-integrated blogging platform.
    - Blogging — without the writer's block
+
 
 ### 🌱 Currently Learning
 - React & modern frontend patterns  
